@@ -1,0 +1,2 @@
+# so we cant access app folder content on the browser
+Options -Indexes
